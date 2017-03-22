@@ -1,3 +1,4 @@
+from factorial import Factorial
 from sort import BubbleSort
 from sort import get_arr
 from sort import InsertionSort
@@ -36,3 +37,6 @@ if __name__ == '__main__':
     t2 = time()
     arr = get_arr(100)
     print('QuickSort: ', t2 - t1)
+
+    print(Factorial(500))
+
