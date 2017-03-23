@@ -1,4 +1,5 @@
 from factorial import Factorial
+from maze import Maze
 from sort import BubbleSort
 from sort import get_arr
 from sort import InsertionSort
@@ -40,3 +41,4 @@ if __name__ == '__main__':
 
     print(Factorial(500))
 
+    print(Maze())
