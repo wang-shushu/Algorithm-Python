@@ -43,3 +43,6 @@ if __name__ == '__main__':
     print(Factorial(500))
 
     print(Maze())
+
+    arr = [1, 3, 5, 2]
+    print(get_permutation(arr=arr))
