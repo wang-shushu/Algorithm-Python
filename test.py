@@ -7,6 +7,7 @@ from sort import Mergesort
 from sort import QuickSort
 from sort import SelectionSort
 from time import time
+from permutation import get_permutation
 
 if __name__ == '__main__':
     arr = get_arr(100)
