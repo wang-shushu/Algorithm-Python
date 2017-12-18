@@ -1,5 +1,5 @@
 # 常见算法的python实现
-### [常用排序算法](https://github.com/xiaoqiang0-0/Algorithm-Python/blob/master/sort/BubbleSort.py)
+### [常用排序算法](https://github.com/xiaoqiang0-0/Algorithm-Python/blob/master/sort)
 >`冒泡排序`
 
 >`选择排序`
